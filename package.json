@@ -1,0 +1,23 @@
+{
+  "name": "pikskin_scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarkungZZ/pikskin_scraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarkungZZ/pikskin_scraping/issues"
+  },
+  "homepage": "https://github.com/tarkungZZ/pikskin_scraping#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "puppeteer": "^14.4.1"
+  }
+}
